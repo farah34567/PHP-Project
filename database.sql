@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `email`, `password`) VALUES
-(1, 'admin', 'admin@admin.com', '9ae2be73b58b565bce3e47493a56e26a');
+(1, 'moha', 'moha@admin.com', '1234');
 
 -- --------------------------------------------------------
 

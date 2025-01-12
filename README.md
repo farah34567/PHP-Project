@@ -1,4 +1,4 @@
-# User-Management-PHP-MYSQL
+# User-Management-system
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=ajayrandhawa.User-Management-PHP-MYSQL&title=Visitor )
 
@@ -57,10 +57,11 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 
 ### Author
 
-Ajay Randhawa
+Mohamed Ali 
 
- ## Donate
-If you appreciate that, please consider donating to the Developer.
+## Deeq
+Haddii aad qadarinayso, fadlan tixgeli inaad deeq bixiso Horumariyaha.
+
 
 [![Donate](https://cdn.pbrd.co/images/HyQFKkP.png)](https://www.paypal.me/ajayrandhawa) 
 
