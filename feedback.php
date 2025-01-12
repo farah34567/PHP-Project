@@ -177,7 +177,7 @@ if(isset($_POST['submit']))
 	<script type="text/javascript">
 				 $(document).ready(function () {          
 					setTimeout(function() {
-						$('.succWrap').slideUp("slow");
+						$('.successwrap').slideUp("slow");
 					}, 3000);
 					});
 	</script>
